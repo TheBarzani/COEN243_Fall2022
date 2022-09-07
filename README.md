@@ -1,2 +1,3 @@
-# COEN243_Fall2022
-Contains all of the resources for COEN-243 tutorials  
+# COEN243 Fall 2022 Tutorials
+All of the resources for COEN-243 tutorials
+
