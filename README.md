@@ -16,6 +16,7 @@
 - **XCode Installation Video**: https://www.youtube.com/watch?v=m9m6HozVjo8
 - **XCode Installation Web Tutorials**: https://www.freecodecamp.org/news/how-to-download-and-install-xcode/
 - **How to Setup C++ on Mac**: https://www.youtube.com/watch?v=1E_kBSka_ec
+- **Different Ways to Setting Up Environment For C++ Programming in Mac by GeeksforGeeks**: https://www.geeksforgeeks.org/different-ways-to-setting-up-environment-for-cpp-programming-in-mac/
 
 ## C++ Online Video Tutorials
 - **Deep Dive in C++ on Udemy**: https://concordia.udemy.com/course/cpp-deep-dive/
