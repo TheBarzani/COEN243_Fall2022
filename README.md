@@ -42,6 +42,7 @@
 ## COEN-243 Reading List
 - **C++ How to Program (10th Edition) by Paul J. Deitel, Harvey Deitel**
 - **C++ Primer 5th Edition by Stanley Lippman, Josée Lajoie, Barbara Moo**
+- **A Tour of C++ (Second Edition) by Bjarne Stroustrup**
 - **Extended List of Quality Books for C++**: https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
 
 ## O'Reilly Reading List
