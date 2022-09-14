@@ -8,6 +8,7 @@
     - https://www.youtube.com/watch?v=sXW2VLrQ3Bs 
     - https://www.youtube.com/watch?v=WWTocqPrzMk&t=186s
 - **Visual Studio IDE**: https://visualstudio.microsoft.com/downloads/
+- **Visual Studo Setup for C++ development**: https://docs.microsoft.com/en-us/cpp/build/vscpp-step-0-installation?view=msvc-170
 - **CLion IDE** (Paid but free with university email): https://www.jetbrains.com/clion/ 
 - **Eclipse IDE**: https://www.eclipse.org/downloads/packages/release/2022-06/r/eclipse-ide-cc-developers
 
