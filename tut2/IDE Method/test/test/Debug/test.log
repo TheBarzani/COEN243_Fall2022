@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\Users\Ismael Barzani\Downloads\COEN243-TUT\tut2\IDE Method\test\test\test.cpp(3,25): warning C4091: '': ignored on left of 'std::basic_ios<char,std::char_traits<char>>' when no variable is declared
+  test.vcxproj -> C:\Users\Ismael Barzani\Downloads\COEN243-TUT\tut2\IDE Method\test\Debug\test.exe
